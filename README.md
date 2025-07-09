@@ -38,3 +38,17 @@ PHL transforms the $50 R36S gaming handheld into a powerful, privacy-focused Lin
 ### 🛠️ Hacking Toolkit
 `bash
 nmap wireshark-qt aircrack-ng python3 git htop netcat socat
+
+## 🔐 Key Advantages of PHL
+
+### <img src="https://i.imgur.com/anon-icon.png" width="20"> Unmatched Privacy
+- **Zero telemetry** - Unlike Windows/macOS/Android, no data is collected
+- **Pure Linux** with no backdoors or modifications
+- **Terminal-based SimpleX Chat** - no graphical indicators of messenger activity
+- **Tor-over-VPN** - Double encrypted traffic by default
+
+### <img src="https://i.imgur.com/control-icon.png" width="20"> Complete Control
+```bash
+# Example: Installing custom software
+sudo pacman -S your-package   # Via official repos
+flatpak install your-package  # Or via Flatpak
