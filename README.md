@@ -1,6 +1,6 @@
 # <img src="https://i.imgur.com/placeholder-logo.png" width="40"> PHL - Portable Hacking Lab
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/edwards-tech/PHL/blob/main/LICENSE)
 [![Platform: R36S](https://img.shields.io/badge/Platform-R36S-orange)](https://www.example.com)
 [![OS: ArkOS](https://img.shields.io/badge/OS-ArkOS_K36-green)](https://www.example.com)
 
