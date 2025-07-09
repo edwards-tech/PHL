@@ -1,4 +1,4 @@
-# <img src="PHL.png" width="1080"> PHL - Portable Hacking Lab
+# <img src="PHL.png" width="640"> PHL - Portable Hacking Lab
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/edwards-tech/PHL/blob/main/LICENSE)
 [![Platform: R36S](https://img.shields.io/badge/Platform-R36S-orange)](https://www.example.com)
